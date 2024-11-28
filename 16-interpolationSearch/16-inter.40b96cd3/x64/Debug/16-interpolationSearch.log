@@ -1,0 +1,5 @@
+﻿  interpolationSearch.c
+C:\Users\정준의\Desktop\자료구조\16-interpolationSearch\interpolationSearch.c(18,26): warning C4013: 'partition'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\정준의\Desktop\자료구조\16-interpolationSearch\interpolationSearch.c(98,23): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\정준의\Desktop\자료구조\16-interpolationSearch\interpolationSearch.c(125,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  16-interpolationSearch.vcxproj -> C:\Users\정준의\Desktop\자료구조\16-interpolationSearch\x64\Debug\16-interpolationSearch.exe
